@@ -1,1 +1,3 @@
 username: ravindra
+passwd: ravindra
+dbuser config
