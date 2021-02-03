@@ -3,3 +3,4 @@ passwd: ravindra
 dbuser config
 mysql data
 hello
+new line
